@@ -1,0 +1,19 @@
+{
+  "1": {
+    "name": "The Creative",
+    "description": "Description of hexagram 1...",
+    "changingLines": {
+      "1": "Description of changing line 1...",
+      "2": "Description of changing line 2..."
+    }
+  },
+  "2": {
+    "name": "The Receptive",
+    "description": "Description of hexagram 2...",
+    "changingLines": {
+      "1": "Description of changing line 1...",
+      "2": "Description of changing line 2..."
+    }
+  },
+  ...
+}
